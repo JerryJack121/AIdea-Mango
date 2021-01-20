@@ -1,0 +1,12 @@
+.vscode
+*.pyc
+pretrained_model
+train_val_txt
+model_data
+logs
+images
+weights
+result
+參考資料
+report
+results
