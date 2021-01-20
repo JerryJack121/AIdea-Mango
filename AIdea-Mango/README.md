@@ -1,5 +1,5 @@
 # AIdea 愛文芒果不良品分類競賽
-🚧施工
+🚧施工中
 
 ## Acknowledgements
 1. @[BlackyYen, Chen-Yen Chang](https://github.com/BlackyYen)
